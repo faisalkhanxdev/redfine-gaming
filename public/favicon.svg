@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Redefine Gaming</title>
+  <rect width="64" height="64" rx="10" fill="#0f172a"/>
+  <!-- subtle glow circle -->
+  <circle cx="32" cy="28" r="20" fill="#0b1220" opacity="0.18"/>
+  <!-- controller body -->
+  <g transform="translate(8,16)">
+    <path d="M20 6c-6 0-8 4-10 6s-6 2-8 6 2 10 8 10h20c6 0 10-4 8-10s-6-4-8-6-4-6-10-6z"
+          fill="#10b981"/>
+    <!-- left D-pad -->
+    <rect x="6.5" y="9.5" width="3" height="7" rx="1" fill="#062f1e"/>
+    <rect x="4" y="12" width="7" height="3" rx="1" fill="#062f1e"/>
+    <!-- right buttons -->
+    <circle cx="28" cy="12" r="2.8" fill="#062f1e"/>
+    <circle cx="33.5" cy="9.5" r="2.3" fill="#062f1e"/>
+    <circle cx="33.5" cy="14.5" r="2.3" fill="#062f1e"/>
+  </g>
+</svg>
